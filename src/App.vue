@@ -3,10 +3,11 @@
 </script>
 
 <template>
+  <div>
+    
+  </div>
 </template>
 
 <style lang="scss">
-body {
-  background-color: lime;
-}
+
 </style>
